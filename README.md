@@ -1,4 +1,4 @@
 # euler
 project euler
 
-ignore goofy solutions
+haven't got a lot from the beginning because i never saved them ;(
